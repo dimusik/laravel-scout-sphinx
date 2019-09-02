@@ -1,5 +1,5 @@
 {
-    "name": "egwk/laravel-scout-sphinx",
+    "name": "dimusik/laravel-scout-sphinx",
     "description": "Sphinx Search Engine for Laravel Scout.",
     "type": "library",
     "keywords": ["sphinxsearch", "laravel", "search"],
