@@ -11,7 +11,7 @@
         "name": "peter"
     }],
     "require": {
-        "laravel/scout": "^6.1.3",
+        "laravel/scout": "^7.1",
         "foolz/sphinxql-query-builder": "^2.0"
     },
     "autoload": {
